@@ -4,9 +4,9 @@ Hi 👋 My name is Ordan
 Front-End Developer
 -------------------
 
-* 🌍  I'm based in Veles, Macedonia
+* 🌍  I'm based in Veles, Macedonia.
 * ✉️  You can contact me at [ordance01@yahoo.com](mailto:ordance01@yahoo.com)
-* 🧠  I'm learning Node.js and MongoDB
+* 🧠  I'm learning Node.js and MongoDB.
 * ⚡  I am Ordan from Veles. I am 20 years old and my passion is web development. I am an entry level front-end developer constantly expanding my knowledge on the web development field and looking forward into getting an intership.
 
 ### Skills
