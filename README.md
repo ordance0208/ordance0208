@@ -1,4 +1,4 @@
-Hi 👋 My name is Ordan
+Hi 👋 My name is Ordan!
 ======================
 
 Front-End Developer
