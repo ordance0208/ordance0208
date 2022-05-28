@@ -23,7 +23,7 @@ I am Ordan from Veles. I am 20 years old and my passion is web development. I am
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ordance0208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /><a href="https://www.linkedin.com/in/ordan-gramatov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p></a><a href="http://www.instagram.com/ordancheg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<p align="left"> <a href="https://www.github.com/ordance0208" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /><a href="https://www.linkedin.com/in/ordan-gramatov/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></a><a href="http://www.instagram.com/ordancheg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 
 ### Support Me
 
