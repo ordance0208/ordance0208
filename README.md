@@ -1,7 +1,7 @@
 Hi 👋 My name is Ordan!
 ======================
 
-Front-End Developer
+Full-Stack Developer
 -------------------
 
 I am Ordan from Veles. I am 20 years old and my passion is web development. I am an entry level front-end developer constantly expanding my knowledge on the web development field and looking forward into getting an intership.
