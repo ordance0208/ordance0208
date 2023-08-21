@@ -8,7 +8,6 @@ I am Ordan from Veles. I am 20 years old and my passion is web development. I am
 
 * 🌍  I'm based in Veles, Macedonia.
 * ✉️  You can contact me at [ordance01@yahoo.com](mailto:ordance01@yahoo.com)
-* 🧠  I'm currently learning Node.js and MongoDB.
 
 ### Skills
 
